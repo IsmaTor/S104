@@ -14,4 +14,9 @@ public class RunToMordor {
 		return paraula;
 	}
 	
+	//setters
+	public void setParaula() {
+		this.paraula = paraula;
+	}
+	
 }
