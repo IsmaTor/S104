@@ -2,8 +2,8 @@ package S1T4E1N2;
 
 import org.hamcrest.*;
 import org.junit.Test;
-import static org.hamcrest.CoreMatchers.*; 	//Perquè tots els aparelladors estiguin disponibles a l'arxiu
-											
+import static org.hamcrest.CoreMatchers.*; 	//Perquè tots els aparelladors estiguin disponibles a l'arxiu, 
+											//el mètode IS o el mètode equalTo... al assertThat
 public class RunToMordorTest {
 
 	@Test //creem la paraula 
